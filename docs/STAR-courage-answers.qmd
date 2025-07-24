@@ -2,7 +2,6 @@
 title: "Courage about Tennessee STAR"
 execute: 
   echo: false
-  eval: false
 ---
 
 ```{r}
