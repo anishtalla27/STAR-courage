@@ -1,4 +1,8 @@
-### Day 2: Courage
+---
+title: "Courage about Tennessee STAR"
+execute: 
+  echo: false
+---
 
 ```{r}
 #| message: false
